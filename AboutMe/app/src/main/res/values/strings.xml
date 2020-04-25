@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Saurabh Chalke</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hi, my name is Saurabh!
+        \n\nI love Cricket.
+        \n\nI have been fascinated by Test Cricket as far back as I can remember.
+        \n\nRahul Dravid has been my favourite batsman for his elegant game and textbook strokeplay.
+        \nI got the wonderful opportunity to meet him as a eight year old, when he was at the pinnacle of his career.
+        \n\nCricket is an wholesome game, which only keeps "giving".
+        \nAmong the numerous ways Cricket has enriched my life, quick calculations is definitely the
+        most valuable one.
+        \nConstantly calculating the Required Run-Rate, Average, Economy, Strike Rate has in my opinion
+        trained a whole generation in mental math better than schools could ever imagine!
+        \n\nI will be more than happy to be your personal Cricket Buddy/Analyst/Commentator/Coach.
+        \nYou should ask someone else for real Cricket playing tips though… :)
+        \n\n
+    </string>
+    <string name="what_is_your_nickname">What is your namename?</string>
+    <string name="done">Done</string>
+</resources>
